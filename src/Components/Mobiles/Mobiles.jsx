@@ -3,7 +3,7 @@ import React from 'react';
 const Mobiles = () => {
     return (
         <div>
-            <h1>This is Mobiles</h1>
+            <h2>This is Mobiles ....</h2>
         </div>
     );
 };
